@@ -8,5 +8,7 @@ The description of the dialect is like a bunch of rules, that is because it actu
 
 Most of the things you will find here are ways of contractions, word combinations and unusual uses of words (and a kind of new grammatical structure). But still, these are only recommendations.
 
+Read more about it [here](tok apona.md)
+
 # License
 Licensed under Creative Commons Attribution Share Alike 4.0 (CC BY-SA 4.0), for more information visit https://creativecommons.org/licenses/by-sa/4.0/.
