@@ -138,7 +138,7 @@ These words are allowed and welcomed to use, with the following _recommended mea
 - __tuli__ _adj_ _number_ three (get deprecated)
 
 # Conjunctions
-In addition of __taso__, _en_ and _anu_ are also allowed to act like conjunctions.
+In addition of _taso_, __en__ and __anu__ are also allowed to act like conjunctions.
 
 # Alien words
 Alien words are the _proper names_ and the _barely translatable words_ (such as the Internet).
