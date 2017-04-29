@@ -118,7 +118,7 @@ Lacking of better term, the _unhandled words_ are those words that either
 
 Some of them are still in use, for example _kipisi_, _monsuta_ or _apeja_.
 
-These words are allowed and welcomed to use, with the following _recommended meanings_ (the list may be deficient or inaccurate; if you have any suggestion, please write an email to me -- see the address [on my profile] (https://github.com/ae-dschorsaanjo)):
+These words are allowed and welcomed to use, with the following _recommended meanings_ (the list may be deficient or inaccurate; if you have any suggestion, please write an email to me -- see the address on my profile (https://github.com/ae-dschorsaanjo)):
 
 - __apeja__ -- _verb_ verbal attack, disgrace, _adj_ shame, dishonor, depressive
 - __iki__ -- (replaced, old version of 'ona')
@@ -153,4 +153,7 @@ BUT
 
 3. ~~Sotan li sona e ijo mute.~~
 4. ~~Intene li pona tawa mi.~~
+
+# License
+Licensed under Creative Commons Attribution Share Alike 4.0 (CC BY-SA 4.0), for more information visit https://creativecommons.org/licenses/by-sa/4.0/.
 
