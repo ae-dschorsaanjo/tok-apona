@@ -22,10 +22,10 @@ For example, _mi toki kepeken tok' Inli_.
 If a long word is unambiguously obvious by its first 3 (or more) letter, the elision of the further part is allowed.
 For example, _toki -> tok'_.
 
-When we elide a word, we ought to take care of the elided word will not be ambigous in any way (for example, _sinpin -/-> sinp' or sinpi'_, _alasa_ -/-> _ala_ or _alas_).
+When we shorten a word, we ought to take care of the shortened word will not be ambigous in any way (for example, _sinpin -/-> sinp' or sinpi'_, _alasa_ -/-> _ala_ or _alas_).
 
 ## Pronouns
-The pronouns (_mi_, _sina_ and _ona_) can be shorten.
+The pronouns (_mi_, _sina_ and _ona_) can be shortened.
 
 ### Pronoun as personal suffix
 __mi__ and __sina__ can act like suffix of a verb as _'-mi'_ and _'na'_. In this case, the noun is elided.
@@ -41,6 +41,12 @@ For example, _soweli pi sina -> soweli pi 'na_ (your pet).
 __ona__ can shorten to _o'_ before "li", "pi li" and "pli".
 
 For example, _ona li musi -> o' li musi_, _ona pi li jo e ijo li... -> o' pi li jo e ijo_ (he, who has something, ...).
+
+### Wishes, desires
+When we want to express a _wish or desire_ (for example, _jan o, pona!_), we use "o" instead of "li".
+In this case, we can shorten __mi__ and __sina__ as a suffix of the verb. Important, that it will not make the sentence imperative, because we still have a subject!
+
+For example, _sina o, lape pona! -> o, lapena pona!_ (sleep well)
 
 ## ala
 __ala__ can be used as a _prefix of the negative word_ in these cases:
@@ -65,7 +71,7 @@ For example, _mi sona e ni: monsuta li lon ala -> mi sona e monsuta li lon ala_.
 
 ## Assimilations
 Between
-1. preposition and the following noun, or
+1. preposition and the following noun, __or__
 2. verb, and the subject as a suffix,
 
 the preposition's of verb's terminal letter (if it is an _'n'_) can be assimilate to the following word's first letter (if it is an _'n'_ or an _'m'_). These words are also being contracted without apostrophe.
@@ -110,7 +116,18 @@ Using prepositions with an _e_ after them is _still wrong!_
 ## lon
 Using of __lon__ for timing (that would be traditionally expressed with _la_) is allowed, but still the traditional way is the preferred one.
 
-# Unhandled words
+# Conjunctions
+In addition of _taso_, __en__ and __anu__ are also allowed to act like conjunctions.
+
+# Words
+
+## The duplicated words
+There are 4 pair of words that (via pu) mean the same. With the exception of __ale/ali__ (that are undoubyly means the same), I'd like to _recommend_ these little distinctions between them:
+- __oko/lukin__ -- _oko only for eye_ and _lukin for any other meaning_
+- __sin/namako__ -- _sin for new, fresh_ and _namako for extra, additional_
+- __a/kin__ -- here the line is not well defined, I would say _a for emotional emphasis_ and _kin for confirmation_
+
+## Unhandled words
 Lacking of better term, the _unhandled words_ are those words that either
 - does not official, or
 - was official or planned in the past, or
@@ -137,10 +154,17 @@ These words are allowed and welcomed to use, with the following _recommended mea
 - __powe__ -- _adj_ false, untrue, trick, pretended (get deprecated, old version of 'pona ala'; my favorite "unhandled" word)
 - __tuli__ _adj_ _number_ three (get deprecated)
 
-# Conjunctions
-In addition of _taso_, __en__ and __anu__ are also allowed to act like conjunctions.
+## Additional word(s)
+I would recommend these words, because there are cases when the "pu" way is not enough, ambiguous or just simply "weird to say".
 
-# Alien words
+- __ke/oke__ -- basically interchangeable, but I recommend _ke for general yes_ and _oke for approval_ (like English's "okay", "great", "fine")
+
+In toki pona, there is a kind of funny way to say _yes_ and to approve something you can say only _pona_, which can have an ambiguous meaning.
+
+## Stress
+_As in pu,_ stress is on the first syllable of a word, except the case when the _ala shorten to a-_ and became a prefix. In this case, the stress is on the _second syllable_.
+
+## Alien words
 Alien words are the _proper names_ and the _barely translatable words_ (such as the Internet).
 If the meaning of this words is obvious (via context), _in the object_ you can use it also as a noun, not only like an adjective.
 
