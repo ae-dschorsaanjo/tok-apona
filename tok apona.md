@@ -91,7 +91,7 @@ For example, _tan mi -> tammi_, _lon ma pona -> lomma pona_.
 	-> sina wile awile pali e moku tawa mi? OR wilena awile ...
 
 # Usage of pi
-The usual usage of __pi__ is the same as in the _pu_, but if we use _pi_ to express possession (i.e. it's almost identical to English's "of"), its usage is _hardly recommended_, regardless of the number of words.
+The usual usage of __pi__ is the same as in the _pu_, but if we use _pi_ to express possession (i.e. it's almost identical to English's "of"), its usage is _highly recommended_, regardless of the number of words.
 At any case, the possessor should be the last modifier (adj. or adv.) after the noun.
 
 For example, _"soweli jan" can be either "humanoid animal" or "a man's animal", but "soweli pi jan" is definitely "a man's animal"_.
@@ -109,7 +109,7 @@ For example: _mi pi li jo e moku __li__ moku_ (I, who has some food, am eating).
 4. mi olin e meli. meli ni li pona tawa mi -> mi olin e meli pi li pona tawa mi.
 
 # Prepositions
-In addition of _traditional prepositions_ (tan, lon, tawa, kepeken, sama), the words of relative positions (sewi, poka, anpa, monsi, sinpin) can also act like prepositions. Using a comma is _hardly recommended_ in these cases!
+In addition of _traditional prepositions_ (tan, lon, tawa, kepeken, sama), the words of relative positions (sewi, poka, anpa, monsi, sinpin) can also act like prepositions. Using a comma is _highly recommended_ in these cases!
 
 Using prepositions with an _e_ after them is _still wrong!_
 
