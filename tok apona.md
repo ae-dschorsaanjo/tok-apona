@@ -146,7 +146,7 @@ These words are allowed and welcomed to use, with the following _recommended mea
 - __kapa__ -- (replaced, old version of 'nena')
 - __kapesi__ -- _adj_ brown, gray (covered by 'pimeja')
 - __kipisi__ -- _verb_ cut, splid (covered by 'tu')
-- __kijetasantakalu__ -- _noun_ joke, blah-blah (originally an April Fools' Day joke with meanings 'pangolin, kinkjou, any Procyonidae, or armadillo')
+- __kijetesantakalu__ -- _noun_ joke, blah-blah (originally an April Fools' Day joke with meanings 'pangolin, kinkjou, any Procyonidae, or armadillo')
 - __leko__ -- _noun_ stair, square, edge; opposite of 'sike' (was used, get deprecated)
 - __majuna__ -- old (from Esperanto's 'maljuna' -- afaik, was only planned)
 - __monsuta__ -- _verb_ afraid of -- _noun_ monster, fear, terror (get deprecated, still widely used)
