@@ -1,6 +1,8 @@
 # tok' apona
 A dialect of toki pona from _jan Sotan_.
 
+THIS DOCUMENT IS OBSOLETE! CHECK OUT THE UPDATED VERSION [HERE](https://github.com/ae-dschorsaanjo/lipu-lili-pi-toki-pona/blob/master/informal.md)!
+
 # What is it and what is it for?
 This dialect is an extended version of the _de facto_ official "pu" dialect, hence it is __100% backward compatible__ with that (i.e. every pu sentence is a "valid tok' apona" sentence).
 
