@@ -1,5 +1,7 @@
 # tok' apona
-A dialect of toki pona from _jan Sotan_.
+A dialect of toki pona by _jan Sotan_.
+
+**2025 update:** complete rewrite of this document will be coming. The text below was left as it was written in 2020:
 
 THIS DOCUMENT IS OBSOLETE! CHECK OUT THE UPDATED VERSION [HERE](https://github.com/ae-dschorsaanjo/lipu-lili-pi-toki-pona/blob/master/informal.md)! (or even better, don't use it at all)
 
